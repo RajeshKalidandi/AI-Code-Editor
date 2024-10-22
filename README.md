@@ -1,6 +1,6 @@
 # AI Code Editor
 
-![AI Code Editor](https://imageurl.com/ai-code-editor-banner.jpg)
+![AI Code Editor](AI-Code-Editor\public\Ai code editor.png)
 
 ## 🚀 Elevate Your Coding Experience with AI-Powered Assistance
 
